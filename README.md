@@ -14,9 +14,9 @@ Validacion de datos ingresados
 Respuestas automaticas
 
 .COMO EJECUTAR EL PROYECTO
-1. Asegurate de estar ubicado en la carpeta del proyecto desde tu terminal.
-2. Ejecuta el siguiente comando para inicar el programa:
-3.  bash
-4.  python tp_oe_vacaciones.py
+1.  # Asegurate de estar ubicado en la carpeta del proyecto desde tu terminal.
+2.  # Ejecuta el siguiente comando para inicar el programa:
+3.  # bash
+4.  # python tp_oe_vacaciones.py
    
    
